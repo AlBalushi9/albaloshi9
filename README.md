@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Ahmed Baloch
+<h1 align="center">Hi 👋, I'm Ahmed Baloch</h1>
 
-## A passionate Full Stack Developer from Pakistan
+<p align="center">A passionate Full Stack Developer from Pakistan</p>
 
 <img align="right" alt="coding image" width="300" src="https://github.com/Albaloshi9/albaloshi9/blob/master/coding%20img.gif">
 
