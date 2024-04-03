@@ -2,7 +2,7 @@
 
 ## A passionate Full Stack Developer from Pakistan
 
-<img align="right" alt="coding image" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw24lzMh5_t-BOi05LROMhum&ust=1712215400735000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjSjfzOpYUDFQAAAAAdAAAAABAT">
+<img align="right" alt="coding image" width="300" src="https://github.com/Albaloshi9/albaloshi9/blob/master/coding%20img.gif">
 
 ![Profile views](https://komarev.com/ghpvc/?username=albaloshi9&label=Profile%20views&color=0e75b6&style=flat)
 
