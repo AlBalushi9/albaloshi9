@@ -32,9 +32,9 @@
 
 ### GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albaloshi9&show_icons=true&locale=en" alt="albaloshi9" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albaloshi9&show_icons=true&theme=gotham" alt="albaloshi9" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albaloshi9&" alt="albaloshi9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albaloshi9&show_icons=true&theme=gotham" alt="albaloshi9" /></p>
 
 <br />
 <br />
